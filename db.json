@@ -1,0 +1,31 @@
+{
+	"data" : [
+	{
+		"id": 1,
+		"title": "Lenovo ideaPad Slim 3",
+		"details":
+			"Lenovo ideaPad Slim 3 Intel Core i3-1115G4 11th Gen 15.6 (39.62cm) FHD Laptop",
+		"price": 33890,
+		"image_url":
+			"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61Dw5Z8LzJL._AC_UY218_.jpg",
+	},
+	{
+		"id": 2,
+		"title": "HP Chromebook",
+		"details":
+			"HP Chromebook 11a, MediaTek MT8183 Processor 11.6 inch(29.5cm) Thin and Light Touchscreen Laptop",
+		"price": 18058,
+		"image_url":
+			"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61d1xNY54HL._SY355_.jpg",
+	},
+	{
+		"id": 3,
+		"title": "Apple Macbook",
+		"details":
+			"Apple 2022 MacBook Air Laptop with M2 chip: 34.46 cm(13.6-inch) Liquid Retina Display",
+		"price": 86990,
+		"image_url":
+			"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/710TJuHTMhL._AC_UY218_.jpg",
+	},
+],
+}
